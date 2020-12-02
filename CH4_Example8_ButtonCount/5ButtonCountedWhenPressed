@@ -1,3 +1,8 @@
+/*
+**Counting Push Button Pressed in Serial Monitor
+**TinkerCAD link https://www.tinkercad.com/things/ggpBennPNkJ-ch4push-button-count
+*/
+
 const int  buttonPin1   = 10;    // the pin that the pushbutton is attached to
 const int  buttonPin2   = 11;
 const int  buttonPin3   = 12;
