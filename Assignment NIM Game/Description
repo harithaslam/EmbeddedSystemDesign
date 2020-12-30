@@ -1,0 +1,7 @@
+The Assignment is to design a flow chart of NIM game Arduino based.
+
+The Nim is a game with 12 balls, If is your turn you can pick 1,2 or 3 balls and then your opponent plays. The winner is the one who takes the last one.]
+
+Using Arduino, we set up two controller where each have 2 button. First, the Play Button is to turn down the ball. It can be done up to three times. Then,
+either the play want to press Button Next after one ball turn down, or 3 balls (max), the second player will do his/her turn doing the same thing.
+The player that is doing the game with the last ball turn down is the winner
